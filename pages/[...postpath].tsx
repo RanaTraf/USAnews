@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://warsanews.blogspot.com/?m=0` 
+					`https://perilastronaut.com/pupzrj4ys?key=53cc60f9e7c17c60ead1040c784d8272` 
 				}`,
 			},
 		};
